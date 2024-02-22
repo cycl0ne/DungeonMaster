@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden; /* Prevent scrolling */
+}
+
+#canvas1 {
+    border: 5px solid black;
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #4d79bc;
+    max-width: 100%;
+    max-height: 100%;
+    font-family: 'Bangers', cursive;
+}
+
+#obj0002, #obj0003, #obj0004, #obj0011, #obj0013, #obj0013i, #obj0078, #obj0079, #obj0078A, #obj0079A,
+#obj0086, #obj0087, #obj0088, #obj0089, #obj0090, 
+#obj0091, #obj0092, #obj0093, #obj0094, #obj0095, #obj0096, #obj0097, #obj0098, #obj0099, 
+#obj0100, #obj0101, #obj0102, #obj0103, #obj0104, #obj0105, #obj0106,
+#obj0107, 
+#obj0093A, #obj0094A, #obj0095A, #obj0096A, #obj0097A, #obj0098A, #obj0099A, 
+#obj0100A, #obj0101A, #obj0102A, #obj0103A, #obj0104A, #obj0105A, #obj0106A,
+#obj0107A,
+#obj0246, #obj0247, #obj0248, #obj0249, #obj0250, #obj0251, #obj0252, #obj0253, #obj0254, #obj0255, 
+#obj0256, #obj0257, 
+#obj0261, #obj0262, #obj0265, #obj0266, #obj0279, #obj0280, #obj0331,#obj0332,#obj0333,#obj0334,
+#tiles1, #arrow
+{
+    display: none;
+}

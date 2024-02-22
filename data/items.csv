@@ -1,0 +1,3 @@
+name,type,class,shortdesc,mass,icon,dungeon
+APPLE, 0, 1, "AN APPLE A DAY...", 4, 168, obj0526, 500, 1
+DRAGON STEAK,0,1,"TASTY STEAK FROM A DRAGON",6,175, obj0565, 1200, 1 

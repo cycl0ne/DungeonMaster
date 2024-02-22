@@ -1,0 +1,310 @@
+0002.IMG1.PAL013 [Entrance Left Door].bmp
+0003.IMG1.PAL013 [Entrance Right Door].bmp
+0004.IMG1.PAL013 [Entrance (English)].bmp
+0007.IMG1.PAL009 [Status Box].png
+0008.IMG1.PAL009 [Dead Status Box].png
+0009.IMG1.PAL009 [Menu Spell Area Lines].png
+0010.IMG1.PAL009 [Menu Action Area].png
+0011.IMG1.PAL013 [Entrance Buttons].bmp
+0013I.IMG1 [Interface - Movement Arrows Inv].png
+0013.IMG1 [Interface - Movement Arrows].png
+0014.IMG1.PAL009 [Damage To Creature].png
+0017.IMG1.PAL009 [Inventory].png
+0018.IMG1.PAL009 [Arrow For Chest Content].png
+0019.IMG1.PAL009 [Eye For Object Description].png
+0020.IMG1.PAL009 [Panel - Empty].png
+0023.IMG1.PAL009 [Panel - Open Scroll].png
+0024.IMG1.PAL009 [Magic Map].png
+0025.IMG1.PAL009 [Panel - Open Container].png
+0026.IMG1.PAL009 [Champion Portraits].png
+0027.IMG1.PAL009 [Panel - Rename Champion (English)].png
+0028.IMG1.PAL009 [Champion Icons].png
+0029.IMG1.PAL009 [Object Description Circle].png
+0030.IMG1.PAL009 ['Food' Label].png
+0031.IMG1.PAL009 ['Water' Label].png
+0032.IMG1.PAL009 ['Poisoned' Label].png
+0033.IMG1.PAL009 [Slot Box Normal].png
+0034.IMG1.PAL009 [Slot Box Wounded].png
+0035.IMG1.PAL009 [Slot Box Acting Hand].png
+0036.IMG1.PAL009 [Slot Box Unused].png
+0040.IMG1.PAL009 [Panel - Resurrect Reincarnate (English)].png
+0042.IMG1.PAL009 [Icons 000-031].png
+0043.IMG1.PAL009 [Icons 032-063].png
+0044.IMG1.PAL009 [Icons 064-095].png
+0045.IMG1.PAL009 [Icons 096-127].png
+0046.IMG1.PAL009 [Icons 128-159].png
+0047.IMG1.PAL009 [Icons 160-191].png
+0048.IMG1.PAL009 [Icons 192-223].png
+0049.IMG1.PAL009 [Floor Pit D3L2].png
+0050.IMG1.PAL009 [Floor Pit D3L].png
+0051.IMG1.PAL009 [Floor Pit D3C].png
+0052.IMG1.PAL009 [Floor Pit D2L].png
+0053.IMG1.PAL009 [Floor Pit D2C].png
+0054.IMG1.PAL009 [Floor Pit D1L].png
+0055.IMG1.PAL009 [Floor Pit D1C].png
+0056.IMG1.PAL009 [Floor Pit D0L].png
+0057.IMG1.PAL009 [Floor Pit D0C].png
+0058.IMG1.PAL009 [Floor Pit Invisible D2L].png
+0059.IMG1.PAL009 [Floor Pit Invisible D2C].png
+0060.IMG1.PAL009 [Floor Pit Invisible D1L].png
+0061.IMG1.PAL009 [Floor Pit Invisible D1C].png
+0062.IMG1.PAL009 [Floor Pit Invisible D0L].png
+0063.IMG1.PAL009 [Floor Pit Invisible D0C].png
+0064.IMG1.PAL009 [Ceiling Pit D2L].png
+0065.IMG1.PAL009 [Ceiling Pit D2C].png
+0066.IMG1.PAL009 [Ceiling Pit D1L].png
+0067.IMG1.PAL009 [Ceiling Pit D1C].png
+0068.IMG1.PAL009 [Ceiling Pit D0L].png
+0069.IMG1.PAL009 [Ceiling Pit D0C].png
+0078A.IMG1.PAL009 [Floor Set 0 - Floor].png
+0078.IMG1.PAL009 [Floor Set 0 - Floor].bmp
+0079A.IMG1.PAL009 [Floor Set 0 - Ceiling].png
+0079.IMG1.PAL009 [Floor Set 0 - Ceiling].bmp
+0086.IMG1.PAL009 [Wall Set 0 - Door Frame Front D0C].png
+0087.IMG1.PAL009 [Wall Set 0 - Door Frame Left D1C].png
+0088.IMG1.PAL009 [Wall Set 0 - Door Frame Left D2C].png
+0089.IMG1.PAL009 [Wall Set 0 - Door Frame Left D3C].png
+0090.IMG1.PAL009 [Wall Set 0 - Door Frame Left D3L].png
+0091.IMG1.PAL009 [Wall Set 0 - Door Frame Top D1LCR].png
+0092.IMG1.PAL009 [Wall Set 0 - Door Frame Top D2LCR].png
+0093A.IMG1.PAL009 [Wall Set 0 - Wall D0R].png
+0093.IMG1.PAL009 [Wall Set 0 - Wall D0R].png
+0094A.IMG1.PAL009 [Wall Set 0 - Wall D0L].png
+0094.IMG1.PAL009 [Wall Set 0 - Wall D0L].png
+0095A.IMG1.PAL009 [Wall Set 0 - Wall D1R].png
+0095.IMG1.PAL009 [Wall Set 0 - Wall D1R].png
+0096A.IMG1.PAL009 [Wall Set 0 - Wall D1L].png
+0096.IMG1.PAL009 [Wall Set 0 - Wall D1L].png
+0097A.IMG1.PAL009 [Wall Set 0 - Wall D1C].png
+0097.IMG1.PAL009 [Wall Set 0 - Wall D1C].png
+0098A.IMG1.PAL009 [Wall Set 0 - Wall D2R2].png
+0098.IMG1.PAL009 [Wall Set 0 - Wall D2R2].png
+0099A.IMG1.PAL009 [Wall Set 0 - Wall D2L2].png
+0099.IMG1.PAL009 [Wall Set 0 - Wall D2L2].png
+0100A.IMG1.PAL009 [Wall Set 0 - Wall D2R].png
+0100.IMG1.PAL009 [Wall Set 0 - Wall D2R].png
+0101A.IMG1.PAL009 [Wall Set 0 - Wall D2L].png
+0101.IMG1.PAL009 [Wall Set 0 - Wall D2L].png
+0102A.IMG1.PAL009 [Wall Set 0 - Wall D2C].png
+0102.IMG1.PAL009 [Wall Set 0 - Wall D2C].png
+0103A.IMG1.PAL009 [Wall Set 0 - Wall D3R2].png
+0103.IMG1.PAL009 [Wall Set 0 - Wall D3R2].png
+0104A.IMG1.PAL009 [Wall Set 0 - Wall D3L2].png
+0104.IMG1.PAL009 [Wall Set 0 - Wall D3L2].png
+0105A.IMG1.PAL009 [Wall Set 0 - Wall D3R].png
+0105.IMG1.PAL009 [Wall Set 0 - Wall D3R].png
+0106A.IMG1.PAL009 [Wall Set 0 - Wall D3L].png
+0106.IMG1.PAL009 [Wall Set 0 - Wall D3L].png
+0107A.IMG1.PAL009 [Wall Set 0 - Wall D3C].png
+0107.IMG1.PAL009 [Wall Set 0 - Wall D3C].png
+0108.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D3L].png
+0109.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D3C].png
+0110.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D2L].png
+0111.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D2C].png
+0112.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D1L].png
+0113.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D1C].png
+0114.IMG1.PAL009 [Wall Set 0 - Stairs Up Front D0C Left].png
+0115.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D3L].png
+0116.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D3C].png
+0117.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D2L].png
+0118.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D2C].png
+0119.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D1L].png
+0120.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D1C].png
+0121.IMG1.PAL009 [Wall Set 0 - Stairs Down Front D0C Left].png
+0122.IMG1.PAL009 [Wall Set 0 - Stairs Side D2L].png
+0123.IMG1.PAL009 [Wall Set 0 - Stairs Up Side D1L].png
+0124.IMG1.PAL009 [Wall Set 0 - Stairs Down Side D1L].png
+0125.IMG1.PAL009 [Wall Set 0 - Stairs Side D0L].png
+0246.IMG1.PAL009 [Door Set 0 - Front D3] [Portcullis].png
+0247.IMG1.PAL009 [Door Set 0 - Front D2] [Portcullis].png
+0248.IMG1.PAL009 [Door Set 0 - Front D1] [Portcullis].png
+0249.IMG1.PAL009 [Door Set 1 - Front D3] [Wooden Door].png
+0250.IMG1.PAL009 [Door Set 1 - Front D2] [Wooden Door].png
+0251.IMG1.PAL009 [Door Set 1 - Front D1] [Wooden Door].png
+0252.IMG1.PAL009 [Door Set 2 - Front D3] [Iron Door].png
+0253.IMG1.PAL009 [Door Set 2 - Front D2] [Iron Door].png
+0254.IMG1.PAL009 [Door Set 2 - Front D1] [Iron Door].png
+0255.IMG1.PAL009 [Door Set 3 - Front D3] [Ra Door].png
+0256.IMG1.PAL009 [Door Set 3 - Front D2] [Ra Door].png
+0257.IMG1.PAL009 [Door Set 3 - Front D1] [Ra Door].png
+0258.IMG1.PAL009 [Inscription Font].png
+0259.IMG1.PAL009 [Wall Ornament 00 D1L] [Unreadable Inscription].png
+0260.IMG1.PAL009 [Wall Ornament 00 D1C] [Unreadable Inscription].png
+0261.IMG1.PAL009 [Wall Ornament 01 D1L] [Square Alcove].png
+0262.IMG1.PAL009 [Wall Ornament 01 D1C] [Square Alcove].png
+0263.IMG1.PAL009 [Wall Ornament 02 D1L] [Vi Altar].png
+0264.IMG1.PAL009 [Wall Ornament 02 D1C] [Vi Altar].png
+0265.IMG1.PAL009 [Wall Ornament 03 D1L] [Arched Alcove].png
+0266.IMG1.PAL009 [Wall Ornament 03 D1C] [Arched Alcove].png
+0267.IMG1.PAL009 [Wall Ornament 04 D1L] [Hook].png
+0268.IMG1.PAL009 [Wall Ornament 04 D1C] [Hook].png
+0269.IMG1.PAL009 [Wall Ornament 05 D1L] [Iron Lock].png
+0270.IMG1.PAL009 [Wall Ornament 05 D1C] [Iron Lock].png
+0271.IMG1.PAL009 [Wall Ornament 06 D1L] [Wood Ring].png
+0272.IMG1.PAL009 [Wall Ornament 06 D1C] [Wood Ring].png
+0273.IMG1.PAL009 [Wall Ornament 07 D1L] [Small Switch].png
+0274.IMG1.PAL009 [Wall Ornament 07 D1C] [Small Switch].png
+0275.IMG1.PAL009 [Wall Ornament 08 D1L] [Dent 1].png
+0276.IMG1.PAL009 [Wall Ornament 08 D1C] [Dent 1].png
+0277.IMG1.PAL009 [Wall Ornament 09 D1L] [Dent 2].png
+0278.IMG1.PAL009 [Wall Ornament 09 D1C] [Dent 2].png
+0279.IMG1.PAL009 [Wall Ornament 10 D1L] [Iron Ring].png
+0280.IMG1.PAL009 [Wall Ornament 10 D1C] [Iron Ring].png
+0281.IMG1.PAL009 [Wall Ornament 11 D1L] [Crack].png
+0282.IMG1.PAL009 [Wall Ornament 11 D1C] [Crack].png
+0283.IMG1.PAL009 [Wall Ornament 12 D1L] [Slime Outlet].png
+0284.IMG1.PAL009 [Wall Ornament 12 D1C] [Slime Outlet].png
+0285.IMG1.PAL009 [Wall Ornament 13 D1L] [Dent 3].png
+0286.IMG1.PAL009 [Wall Ornament 13 D1C] [Dent 3].png
+0287.IMG1.PAL009 [Wall Ornament 14 D1L] [Tiny Switch].png
+0288.IMG1.PAL009 [Wall Ornament 14 D1C] [Tiny Switch].png
+0289.IMG1.PAL009 [Wall Ornament 15 D1L] [Green Switch Out].png
+0290.IMG1.PAL009 [Wall Ornament 15 D1C] [Green Switch Out].png
+0291.IMG1.PAL009 [Wall Ornament 16 D1L] [Blue Switch Out].png
+0292.IMG1.PAL009 [Wall Ornament 16 D1C] [Blue Switch Out].png
+0293.IMG1.PAL009 [Wall Ornament 17 D1L] [Coin Slot].png
+0294.IMG1.PAL009 [Wall Ornament 17 D1C] [Coin Slot].png
+0295.IMG1.PAL009 [Wall Ornament 18 D1L] [Double Iron Lock].png
+0296.IMG1.PAL009 [Wall Ornament 18 D1C] [Double Iron Lock].png
+0297.IMG1.PAL009 [Wall Ornament 19 D1L] [Square Lock].png
+0298.IMG1.PAL009 [Wall Ornament 19 D1C] [Square Lock].png
+0299.IMG1.PAL009 [Wall Ornament 20 D1L] [Winged Lock].png
+0300.IMG1.PAL009 [Wall Ornament 20 D1C] [Winged Lock].png
+0301.IMG1.PAL009 [Wall Ornament 21 D1L] [Onyx Lock].png
+0302.IMG1.PAL009 [Wall Ornament 21 D1C] [Onyx Lock].png
+0303.IMG1.PAL009 [Wall Ornament 22 D1L] [Stone Lock].png
+0304.IMG1.PAL009 [Wall Ornament 22 D1C] [Stone Lock].png
+0305.IMG1.PAL009 [Wall Ornament 23 D1L] [Cross Lock].png
+0306.IMG1.PAL009 [Wall Ornament 23 D1C] [Cross Lock].png
+0307.IMG1.PAL009 [Wall Ornament 24 D1L] [Topaz Lock].png
+0308.IMG1.PAL009 [Wall Ornament 24 D1C] [Topaz Lock].png
+0309.IMG1.PAL009 [Wall Ornament 25 D1L] [Skeleton Lock].png
+0310.IMG1.PAL009 [Wall Ornament 25 D1C] [Skeleton Lock].png
+0311.IMG1.PAL009 [Wall Ornament 26 D1L] [Gold Lock].png
+0312.IMG1.PAL009 [Wall Ornament 26 D1C] [Gold Lock].png
+0313.IMG1.PAL009 [Wall Ornament 27 D1L] [Tourquoise Lock].png
+0314.IMG1.PAL009 [Wall Ornament 27 D1C] [Tourquoise Lock].png
+0315.IMG1.PAL009 [Wall Ornament 28 D1L] [Emerald Lock].png
+0316.IMG1.PAL009 [Wall Ornament 28 D1C] [Emerald Lock].png
+0317.IMG1.PAL009 [Wall Ornament 29 D1L] [Ruby Lock].png
+0318.IMG1.PAL009 [Wall Ornament 29 D1C] [Ruby Lock].png
+0319.IMG1.PAL009 [Wall Ornament 30 D1L] [Ra Lock].png
+0320.IMG1.PAL009 [Wall Ornament 30 D1C] [Ra Lock].png
+0321.IMG1.PAL009 [Wall Ornament 31 D1L] [Master Lock].png
+0322.IMG1.PAL009 [Wall Ornament 31 D1C] [Master Lock].png
+0323.IMG1.PAL009 [Wall Ornament 32 D1L] [Gem Hole].png
+0324.IMG1.PAL009 [Wall Ornament 32 D1C] [Gem Hole].png
+0325.IMG1.PAL009 [Wall Ornament 33 D1L] [Slime].png
+0326.IMG1.PAL009 [Wall Ornament 33 D1C] [Slime].png
+0327.IMG1.PAL009 [Wall Ornament 34 D1L] [Grate].png
+0328.IMG1.PAL009 [Wall Ornament 34 D1C] [Grate].png
+0329.IMG1.PAL009 [Wall Ornament 35 D1L] [Fountain].png
+0330.IMG1.PAL009 [Wall Ornament 35 D1C] [Fountain].png
+0331.IMG1.PAL009 [Wall Ornament 36 D1L] [Manacles].png
+0332.IMG1.PAL009 [Wall Ornament 36 D1C] [Manacles].png
+0333.IMG1.PAL009 [Wall Ornament 37 D1L] [Ghoul's Head].png
+0334.IMG1.PAL009 [Wall Ornament 37 D1C] [Ghoul's Head].png
+0335.IMG1.PAL009 [Wall Ornament 38 D1L] [Empty Torch Holder].png
+0336.IMG1.PAL009 [Wall Ornament 38 D1C] [Empty Torch Holder].png
+0337.IMG1.PAL009 [Wall Ornament 39 D1L] [Scratches].png
+0338.IMG1.PAL009 [Wall Ornament 39 D1C] [Scratches].png
+0339.IMG1.PAL009 [Wall Ornament 40 D1L] [Poison Holes].png
+0340.IMG1.PAL009 [Wall Ornament 40 D1C] [Poison Holes].png
+0341.IMG1.PAL009 [Wall Ornament 41 D1L] [Fireball Holes].png
+0342.IMG1.PAL009 [Wall Ornament 41 D1C] [Fireball Holes].png
+0343.IMG1.PAL009 [Wall Ornament 42 D1L] [Dagger Holes].png
+0344.IMG1.PAL009 [Wall Ornament 42 D1C] [Dagger Holes].png
+0345.IMG1.PAL009 [Wall Ornament 43 D1L] [Champion Mirror].png
+0346.IMG1.PAL009 [Wall Ornament 43 D1C] [Champion Mirror].png
+0347.IMG1.PAL009 [Wall Ornament 44 D1L] [Lever Up].png
+0348.IMG1.PAL009 [Wall Ornament 44 D1C] [Lever Up].png
+0349.IMG1.PAL009 [Wall Ornament 45 D1L] [Lever Down].png
+0350.IMG1.PAL009 [Wall Ornament 45 D1C] [Lever Down].png
+0351.IMG1.PAL009 [Wall Ornament 46 D1L] [Full Torch Holder].png
+0352.IMG1.PAL009 [Wall Ornament 46 D1C] [Full Torch Holder].png
+0353.IMG1.PAL009 [Wall Ornament 47 D1L] [Red Switch Out].png
+0354.IMG1.PAL009 [Wall Ornament 47 D1C] [Red Switch Out].png
+0355.IMG1.PAL009 [Wall Ornament 48 D1L] [Eye Switch].png
+0356.IMG1.PAL009 [Wall Ornament 48 D1C] [Eye Switch].png
+0357.IMG1.PAL009 [Wall Ornament 49 D1L] [Big Switch Out].png
+0358.IMG1.PAL009 [Wall Ornament 49 D1C] [Big Switch Out].png
+0359.IMG1.PAL009 [Wall Ornament 50 D1L] [Crack Switch Out].png
+0360.IMG1.PAL009 [Wall Ornament 50 D1C] [Crack Switch Out].png
+0361.IMG1.PAL009 [Wall Ornament 51 D1L] [Green Switch In].png
+0362.IMG1.PAL009 [Wall Ornament 51 D1C] [Green Switch In].png
+0363.IMG1.PAL009 [Wall Ornament 52 D1L] [Blue Switch In].png
+0364.IMG1.PAL009 [Wall Ornament 52 D1C] [Blue Switch In].png
+0365.IMG1.PAL009 [Wall Ornament 53 D1L] [Red Switch In].png
+0366.IMG1.PAL009 [Wall Ornament 53 D1C] [Red Switch In].png
+0367.IMG1.PAL009 [Wall Ornament 54 D1L] [Big Switch In].png
+0368.IMG1.PAL009 [Wall Ornament 54 D1C] [Big Switch In].png
+0369.IMG1.PAL009 [Wall Ornament 55 D1L] [Crack Switch In].png
+0370.IMG1.PAL009 [Wall Ornament 55 D1C] [Crack Switch In].png
+0371.IMG1.PAL009 [Wall Ornament 56 D1L] [Amalgam (Encased Gem)].png
+0372.IMG1.PAL009 [Wall Ornament 56 D1C] [Amalgam (Encased Gem)].png
+0373.IMG1.PAL009 [Wall Ornament 57 D1L] [Amalgam (Free Gem)].png
+0374.IMG1.PAL009 [Wall Ornament 57 D1C] [Amalgam (Free Gem)].png
+0375.IMG1.PAL009 [Wall Ornament 58 D1L] [Amalgam (Without Gem)].png
+0376.IMG1.PAL009 [Wall Ornament 58 D1C] [Amalgam (Without Gem)].png
+0379.IMG1.PAL009 [Floor Ornament 15 D3L] [Footprints].png
+0380.IMG1.PAL009 [Floor Ornament 15 D3C] [Footprints].png
+0381.IMG1.PAL009 [Floor Ornament 15 D2L] [Footprints].png
+0382.IMG1.PAL009 [Floor Ornament 15 D2C] [Footprints].png
+0383.IMG1.PAL009 [Floor Ornament 15 D1L] [Footprints].png
+0384.IMG1.PAL009 [Floor Ornament 15 D1C] [Footprints].png
+0385.IMG1.PAL009 [Floor Ornament 00 D3L] [Square Grate].png
+0386.IMG1.PAL009 [Floor Ornament 00 D3C] [Square Grate].png
+0387.IMG1.PAL009 [Floor Ornament 00 D2L] [Square Grate].png
+0388.IMG1.PAL009 [Floor Ornament 00 D2C] [Square Grate].png
+0389.IMG1.PAL009 [Floor Ornament 00 D1L] [Square Grate].png
+0390.IMG1.PAL009 [Floor Ornament 00 D1C] [Square Grate].png
+0391.IMG1.PAL009 [Floor Ornament 01 D3L] [Square Pressure Pad].png
+0392.IMG1.PAL009 [Floor Ornament 01 D3C] [Square Pressure Pad].png
+0393.IMG1.PAL009 [Floor Ornament 01 D2L] [Square Pressure Pad].png
+0394.IMG1.PAL009 [Floor Ornament 01 D2C] [Square Pressure Pad].png
+0395.IMG1.PAL009 [Floor Ornament 01 D1L] [Square Pressure Pad].png
+0396.IMG1.PAL009 [Floor Ornament 01 D1C] [Square Pressure Pad].png
+0397.IMG1.PAL009 [Floor Ornament 02 D3L] [Moss].png
+0398.IMG1.PAL009 [Floor Ornament 02 D3C] [Moss].png
+0399.IMG1.PAL009 [Floor Ornament 02 D2L] [Moss].png
+0400.IMG1.PAL009 [Floor Ornament 02 D2C] [Moss].png
+0401.IMG1.PAL009 [Floor Ornament 02 D1L] [Moss].png
+0402.IMG1.PAL009 [Floor Ornament 02 D1C] [Moss].png
+0403.IMG1.PAL009 [Floor Ornament 03 D3L] [Round Grate].png
+0404.IMG1.PAL009 [Floor Ornament 03 D3C] [Round Grate].png
+0405.IMG1.PAL009 [Floor Ornament 03 D2L] [Round Grate].png
+0406.IMG1.PAL009 [Floor Ornament 03 D2C] [Round Grate].png
+0407.IMG1.PAL009 [Floor Ornament 03 D1L] [Round Grate].png
+0408.IMG1.PAL009 [Floor Ornament 03 D1C] [Round Grate].png
+0409.IMG1.PAL009 [Floor Ornament 04 D3L] [Round Pressure Plate].png
+0410.IMG1.PAL009 [Floor Ornament 04 D3C] [Round Pressure Plate].png
+0411.IMG1.PAL009 [Floor Ornament 04 D2L] [Round Pressure Plate].png
+0412.IMG1.PAL009 [Floor Ornament 04 D2C] [Round Pressure Plate].png
+0413.IMG1.PAL009 [Floor Ornament 04 D1L] [Round Pressure Plate].png
+0414.IMG1.PAL009 [Floor Ornament 04 D1C] [Round Pressure Plate].png
+0415.IMG1.PAL009 [Floor Ornament 05 D3L] [Black Flame Pit].png
+0416.IMG1.PAL009 [Floor Ornament 05 D3C] [Black Flame Pit].png
+0417.IMG1.PAL009 [Floor Ornament 05 D2L] [Black Flame Pit].png
+0418.IMG1.PAL009 [Floor Ornament 05 D2C] [Black Flame Pit].png
+0419.IMG1.PAL009 [Floor Ornament 05 D1L] [Black Flame Pit].png
+0420.IMG1.PAL009 [Floor Ornament 05 D1C] [Black Flame Pit].png
+0421.IMG1.PAL009 [Floor Ornament 06 D3L] [Crack].png
+0422.IMG1.PAL009 [Floor Ornament 06 D3C] [Crack].png
+0423.IMG1.PAL009 [Floor Ornament 06 D2L] [Crack].png
+0424.IMG1.PAL009 [Floor Ornament 06 D2C] [Crack].png
+0425.IMG1.PAL009 [Floor Ornament 06 D1L] [Crack].png
+0426.IMG1.PAL009 [Floor Ornament 06 D1C] [Crack].png
+0427.IMG1.PAL009 [Floor Ornament 07 D3L] [Tiny Pressure Pad].png
+0428.IMG1.PAL009 [Floor Ornament 07 D3C] [Tiny Pressure Pad].png
+0429.IMG1.PAL009 [Floor Ornament 07 D2L] [Tiny Pressure Pad].png
+0430.IMG1.PAL009 [Floor Ornament 07 D2C] [Tiny Pressure Pad].png
+0431.IMG1.PAL009 [Floor Ornament 07 D1L] [Tiny Pressure Pad].png
+0432.IMG1.PAL009 [Floor Ornament 07 D1C] [Tiny Pressure Pad].png
+0433.IMG1.PAL009 [Floor Ornament 08 D3L] [Puddle].png
+0434.IMG1.PAL009 [Floor Ornament 08 D3C] [Puddle].png
+0435.IMG1.PAL009 [Floor Ornament 08 D2L] [Puddle].png
+0436.IMG1.PAL009 [Floor Ornament 08 D2C] [Puddle].png
+0437.IMG1.PAL009 [Floor Ornament 08 D1L] [Puddle].png
+0438.IMG1.PAL009 [Floor Ornament 08 D1C] [Puddle].png
+0453.IMG1.PAL009 [Door Button 0].png
+0695.FNT1.NULL [Font].png
