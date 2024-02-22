@@ -14,4 +14,5 @@ TODO:
 * ...
 
 Demo at: https://dist-cycl0ne.vercel.app/
+(press M for MAP to not get lost ;-)
 
